@@ -1,0 +1,158 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+		font-family: Arial, sans-serif;
+		max-width: 960px;
+		margin: auto;
+		background-color: #999999;
+}
+
+h2 {
+		font-size: 3em;
+}
+
+h6{
+		font-size: 1.0em;
+}
+
+p {
+		font-size: 1em;
+		font-family: arial, sans-serif;
+}
+.navbar{
+		width: 960px;
+		padding-top: 30px;
+		padding-bottom: 20px;
+		background-color: #FFFFFF;
+}
+
+.navbox{
+		margin: auto;
+		width: 650px;
+		border-top: 5px solid black;
+		border-bottom: 3px solid grey;
+		padding-left: 140px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		font-size: 1.5em;
+}
+
+.nav-item{
+		text-decoration: none;
+		font-weight: bold;
+		color: black;
+		padding-left: 4px;
+		padding-right: 6px;
+}
+
+.header{
+		margin: 0px;
+		width: 100%;
+		height: 100px;
+		text-align: center;
+		line-height: 0.0;
+		padding-top: 10px;
+		background-color: #FFFFFF;
+}
+
+.test-img1{
+		width: 90%;
+		margin: auto;
+		background-color: #555555;
+		padding: 20px;
+}
+
+.test-img2{
+		width: 90%;
+		margin: auto;
+		background-color: #555555;
+		padding: 20px;
+}
+
+.card1{
+		background-color: #eeeeee;
+		margin: 5px;
+		padding: 10px;
+}
+
+.card2{
+		background-color: #eeeeee;
+		margin: 5px;
+		padding: 10px;
+}
+
+.page{
+		background-color: #999999;
+}
+
+.row::after{
+		content: "";
+		clear: both;
+		display: table;
+}
+
+.row{
+		width: 100%
+		background-color: #FFFFFF;
+
+}
+
+.image-block {
+		padding: 25px;
+		background-color: #FFFFFF;
+}
+
+.text-box {
+		margin: auto;
+		width:420px;
+		text-align: center;
+		line-height: 50%;
+}
+.col-25{
+		width: 25%;
+		float: left;
+}
+
+.col-30{
+		width: 30%;
+		float: left;
+}
+
+.col-75{
+		width: 75%;
+		float: left;
+}
+
+.footer{
+		width: 100%;
+		padding: 20px;
+		background-color: white;
+		color: #eeeeee;
+}
+
+.test-img1{
+		background-color: #222222#
+		padding: 20px;
+		width: 90%
+		margin: auto;
+}
+
+.test-img2{
+		background-color: #222222#
+		padding: 20px;
+		width: 90%
+		margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
